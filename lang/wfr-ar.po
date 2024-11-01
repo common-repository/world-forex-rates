@@ -1,0 +1,1671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: worldforexrates\n"
+"POT-Creation-Date: 2020-01-05 04:30+0200\n"
+"PO-Revision-Date: 2020-01-05 04:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;ngettext:1,2;"
+"T_ngettext:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:69
+msgid "Currency Converter"
+msgstr "تحويل العملات"
+
+#: widgets.php:28
+msgid "World Forex Rates"
+msgstr "اسعار صرف العملات اليوم"
+
+#: widgets.php:43
+msgid "Title"
+msgstr "العنوان"
+
+#: widgets.php:47
+msgid "Built-in Calculator"
+msgstr "اله حاسبه مدمجه"
+
+#: widgets.php:51
+msgid "Default Amount"
+msgstr "المبلغ الافتراضي"
+
+#: widgets.php:59
+msgid "Language"
+msgstr "اللغة"
+
+#: widgets.php:62
+msgid "Base Currency"
+msgstr "العملة الأساسية"
+
+#: widgets.php:70
+msgid "Select Cross Currencies"
+msgstr "تحديد العملات المقابلة"
+
+#: widgets.php:78
+msgid "Code"
+msgstr "كود"
+
+#: widgets.php:79
+msgid "Name"
+msgstr "اسم"
+
+#: widgets.php:81
+msgid "Currency Display"
+msgstr "عرض العملة"
+
+#: widgets.php:88
+msgid "Theme"
+msgstr "القالب"
+
+#: widgets.php:90
+msgid ""
+"<b>Shortcode:</b> Use this shortcode to insert the table in any post or page."
+msgstr ""
+"<b>Shortcode:</b> استخدم هذا الرمز القصير لادراج الجدول في اي مقالة أو صفحه."
+
+#~ msgid ""
+#~ "Insert this code in the place in your website where you want the exchange "
+#~ "rates table to appear"
+#~ msgstr "أضف هذا الكود في أي مكان في موقعك حيث تريد أن يظهر جدول أسعار الصرف"
+
+#~ msgid "Exchange Rate,Exchange Rate Today, forex, foreign exchange"
+#~ msgstr ""
+#~ "تحويل العملات، تحويل العملات اليوم، الفوركس، اسعار العملات، اسعار التحويل"
+
+#, php-format
+#~ msgid "Contact Us | %s"
+#~ msgstr "اتصل بنا | %s"
+
+#, php-format
+#~ msgid "Contains a form to enable you to reach us at %s"
+#~ msgstr "نموذج ليمكنك من الاتصال بنا على %s"
+
+#~ msgid ""
+#~ "Thank you for contacting us!. We received your message and will call you "
+#~ "as soon as possible."
+#~ msgstr "شكرا لاتصالك بنا! استلمنا رسالتك و سنقوم بالاتصال بك في اقرب وقت."
+
+#~ msgid "Please fill in your full name."
+#~ msgstr "من فضلك ادخل اسمك بالكامل."
+
+#~ msgid "Please enter a valid email."
+#~ msgstr "من فضلك ادخل بريد الكتروني صالح."
+
+#~ msgid "Please enter a subject."
+#~ msgstr "من فضلك ادخل الموضوع."
+
+#~ msgid "Please write a comment."
+#~ msgstr "من فضلك ادخل تعليق."
+
+#~ msgid "Please choose the correct captcha."
+#~ msgstr "من فضلك ادخل كلمة التحقيق الصحيحة."
+
+#~ msgid "Contact Us"
+#~ msgstr "اتصل بنا"
+
+#~ msgid "Email"
+#~ msgstr "ايميل"
+
+#~ msgid "Subject"
+#~ msgstr "الموضوع"
+
+#~ msgid "Message"
+#~ msgstr "الرسالة"
+
+#~ msgid "Security Question"
+#~ msgstr "سؤال الامان"
+
+#~ msgid "Choose Captcha"
+#~ msgstr "اختر الصورة الصحيحة"
+
+#~ msgid "Submit"
+#~ msgstr "ارسال"
+
+#~ msgid "Sent Successfully!"
+#~ msgstr "تم الارسال بنجاح!"
+
+#~ msgid "Currency Exchange Rates"
+#~ msgstr "أسعار صرف العملات"
+
+#~ msgid ""
+#~ "World currency exchange rates; convert from and to all world currencies. "
+#~ "Rates are updated every 5 minutes"
+#~ msgstr ""
+#~ "أسعار صرف العملات العالمية؛ تحويل من وإلى جميع العملات العالمية. يتم "
+#~ "تحديث الأسعار كل 5 دقائق"
+
+#, php-format
+#~ msgid "Disclaimer | %s"
+#~ msgstr "إخلاء مسؤولية | %s"
+
+#, php-format
+#~ msgid "This is legal disclaimer for %s, please read carefully."
+#~ msgstr "هذا اخلاء مسئولية قانوني لموقع %s، من فضلك اقرأ بعناية."
+
+#~ msgid "Disclaimer"
+#~ msgstr "اخلاء المسئولية"
+
+#~ msgid "Exchange Rates for All World Currencies"
+#~ msgstr "أسعار العملات اليوم"
+
+#, php-format
+#~ msgid ""
+#~ "Exchange rates today and historical charts for all world currencies. The "
+#~ "rates are updated every 5 minutes!| %s"
+#~ msgstr ""
+#~ "أسعار الصرف اليوم والرسوم البيانية التاريخية لجميع العملات العالمية. يتم "
+#~ "تحديث الأسعار كل 5 دقائق! |  %s"
+
+#~ msgid "Exchange Rate Today,  Exchange Rates, Currency Conversion"
+#~ msgstr "سعر الصرف اليوم, أسعار الصرف, تحويل العملات"
+
+#~ msgid "Search..."
+#~ msgstr "ابحث هنا"
+
+#, php-format
+#~ msgid "Click to see exchange rates for %s in other currencies"
+#~ msgstr "اضغط لمشاهدة اسعار التحويل من عملة %s الى العملات الاخرى"
+
+#, php-format
+#~ msgid "%s  to %s  Chart"
+#~ msgstr "شارت  %s إلى %s"
+
+#, php-format
+#~ msgid "%s to %s Chart"
+#~ msgstr "شارت  %s إلى %s"
+
+#~ msgid "Display Chart"
+#~ msgstr "عرض الرسم البياني"
+
+#~ msgid "Unit"
+#~ msgstr "وحدة"
+
+#~ msgid "AM FIX"
+#~ msgstr "تثبيت الصباح"
+
+#~ msgid "PM FIX"
+#~ msgstr "تثبيت المساء"
+
+#~ msgid "Ounce"
+#~ msgstr "أونصة"
+
+#~ msgid "Gram"
+#~ msgstr "جرام"
+
+#~ msgid "Kilogram"
+#~ msgstr "كيلوغرام"
+
+#, php-format
+#~ msgid "<b>%s (%s)</b> is the currency used in %s."
+#~ msgstr "<b>%s (%s)</b> العملة المستعملة في %s."
+
+#, php-format
+#~ msgid "<b>%s currency symbol:</b> %s"
+#~ msgstr "<b> رمز عملة %s: <b> %s"
+
+#, php-format
+#~ msgid "<b>%s coins available:</b> %s"
+#~ msgstr "</b> العملات المعدنية لعملة %s: </b> %s"
+
+#, php-format
+#~ msgid "<b>%s banknotes available:</b> %s"
+#~ msgstr "</b> العملات الورقية لعملة %s: </b> %s"
+
+#, php-format
+#~ msgid "<b>Central Bank:</b> %s"
+#~ msgstr "</b>  البنك المركزي:</b>  %s"
+
+#, php-format
+#~ msgid "Gold Price in %s (%s)"
+#~ msgstr "أسعار الذهب في %s (%s)"
+
+#, php-format
+#~ msgid "%s %s to %s"
+#~ msgstr "%s %s الى %s "
+
+#, php-format
+#~ msgid "convert %s %s to %s"
+#~ msgstr "حول  %s %s الى %s "
+
+#, php-format
+#~ msgid "%s %s to %s converter"
+#~ msgstr "تحويل %s %s الى %s"
+
+#, php-format
+#~ msgid "%s %s to %s conversion"
+#~ msgstr "تحويل %s %s الى %s "
+
+#, php-format
+#~ msgid " (One second ago)"
+#~ msgid_plural " (%s seconds ago)"
+#~ msgstr[0] " (منذ 0 ثانية)"
+#~ msgstr[1] " )منذ ثانية واحدة("
+#~ msgstr[2] " (منذ ثانيتين)"
+#~ msgstr[3] " (منذ %s ثواني)"
+#~ msgstr[4] " (منذ %s ثانية)"
+#~ msgstr[5] " (منذ %s ثانية)"
+
+#, php-format
+#~ msgid " (One minute ago)"
+#~ msgid_plural " (%s minutes ago)"
+#~ msgstr[0] " (منذ 0 دقيقة)"
+#~ msgstr[1] " (منذ دقيقة واحدة)"
+#~ msgstr[2] " (منذ دقيقتين)"
+#~ msgstr[3] " (منذ %s دقائق)"
+#~ msgstr[4] " (منذ %s دقيقة)"
+#~ msgstr[5] " (منذ %s دقيقة)"
+
+#, php-format
+#~ msgid " (One hour ago)"
+#~ msgid_plural " (%s hours ago)"
+#~ msgstr[0] " (منذ 0 ساعة)"
+#~ msgstr[1] " (منذ ساعة واحدة)"
+#~ msgstr[2] " (منذ ساعتين)"
+#~ msgstr[3] " (منذ %s ساعات)"
+#~ msgstr[4] " (منذ %s ساعة)"
+#~ msgstr[5] " (منذ %s  ساعة)"
+
+#, php-format
+#~ msgid " (One day ago)"
+#~ msgid_plural " (%s days ago)"
+#~ msgstr[0] " (منذ 0 يوم)"
+#~ msgstr[1] " (منذ يوم واحد)"
+#~ msgstr[2] " (منذ يومين)"
+#~ msgstr[3] " (منذ %s أيام)"
+#~ msgstr[4] " (منذ %s يوم)"
+#~ msgstr[5] " (منذ %s يوم)"
+
+#, php-format
+#~ msgid "%s to %s"
+#~ msgstr "%s الى %s "
+
+#~ msgid "To"
+#~ msgstr "الى"
+
+#~ msgid "just now"
+#~ msgstr "فقط الآن"
+
+#, php-format
+#~ msgid "%d second"
+#~ msgid_plural "%d seconds"
+#~ msgstr[0] "%d ثانية"
+#~ msgstr[1] "ثانية واحدة"
+#~ msgstr[2] "ثانيتين"
+#~ msgstr[3] "%d ثواني"
+#~ msgstr[4] "%d ثانية"
+#~ msgstr[5] "%d ثانية"
+
+#, php-format
+#~ msgid "%d minute"
+#~ msgid_plural "%d minutes"
+#~ msgstr[0] "%d دقيقة"
+#~ msgstr[1] "دقيقة واحدة"
+#~ msgstr[2] "دقيقتين"
+#~ msgstr[3] "%d دقائق"
+#~ msgstr[4] "%d دقيقة"
+#~ msgstr[5] "%d دقيقة"
+
+#, php-format
+#~ msgid "%d hour"
+#~ msgid_plural "%d hours"
+#~ msgstr[0] "%d ساعة"
+#~ msgstr[1] "ساعة واحدة"
+#~ msgstr[2] "ساعتين"
+#~ msgstr[3] "%d ساعات"
+#~ msgstr[4] "%d ساعة"
+#~ msgstr[5] "%d ساعة"
+
+#, php-format
+#~ msgid "%d day"
+#~ msgid_plural "%d days"
+#~ msgstr[0] "%d يوم"
+#~ msgstr[1] "يوم واحد"
+#~ msgstr[2] "يومين"
+#~ msgstr[3] "%d أيام"
+#~ msgstr[4] "%d يوم"
+#~ msgstr[5] "%d يوم"
+
+#, php-format
+#~ msgid "%d week"
+#~ msgid_plural "%d weeks"
+#~ msgstr[0] "%d أسبوع"
+#~ msgstr[1] "أسبوع واحد"
+#~ msgstr[2] "أسبوعين"
+#~ msgstr[3] "%d أسابيع"
+#~ msgstr[4] "%d أسبوع"
+#~ msgstr[5] "%d أسبوع"
+
+#, php-format
+#~ msgid "%d month"
+#~ msgid_plural "%d months"
+#~ msgstr[0] "%d شهر"
+#~ msgstr[1] "شهر واحد"
+#~ msgstr[2] "شهرين"
+#~ msgstr[3] "%d شهور"
+#~ msgstr[4] "%d شهر"
+#~ msgstr[5] "%d شهر"
+
+#, php-format
+#~ msgid "%d year"
+#~ msgid_plural "%d years"
+#~ msgstr[0] "%d سنة"
+#~ msgstr[1] "سنة واحدة"
+#~ msgstr[2] "سنتين"
+#~ msgstr[3] "%d سنوات"
+#~ msgstr[4] "%d سنة"
+#~ msgstr[5] "%d سنة"
+
+#~ msgid "Favorites"
+#~ msgstr "المفضلة"
+
+#~ msgid "All Currencies"
+#~ msgstr "جميع العملات"
+
+#~ msgid "Convert"
+#~ msgstr "تحويل"
+
+#~ msgid "Gold Rate Today"
+#~ msgstr "أسعار الذهب اليوم"
+
+#, php-format
+#~ msgid ""
+#~ "Gold rates today in all currencies. Also, silver and platinum prices. "
+#~ "Rates are updated every 5 minutes!| %s"
+#~ msgstr ""
+#~ "أسعار الذهب اليوم بجميع العملات. أيضا أسعار الفضة والبلاتين. يتم تحديث "
+#~ "الأسعار كل 5 دقائق! |  %s"
+
+#~ msgid "Gold Rate Today,  Gold Rates, Gold price"
+#~ msgstr "معدل الذهب اليوم, أسعار الذهب, أسعار الذهب"
+
+#, php-format
+#~ msgid "%s (%s) to %s (%s) Exchange Rate & Converter"
+#~ msgstr "اسعار %s (%s) مقابل %s %s)"
+
+#, php-format
+#~ msgid ""
+#~ "Convert from %s (%s) to  %s (%s) and vice versa. Historical exchange "
+#~ "rates and charts."
+#~ msgstr ""
+#~ "التحويل من %s (%s)  الى  %s (%s) و بالعكس. أسعار الصرف التاريخية و المخطط "
+#~ "البياني."
+
+#, php-format
+#~ msgid "%s to %s, %s to %s, %s to %s Rate Today"
+#~ msgstr "%s الى %s، %s الى %s، اسعار العملات اليوم من %s الى %s"
+
+#, php-format
+#~ msgid "Convert %s (%s) to %s (%s)"
+#~ msgstr "سعر   %s ( %s) مقابل  %s ( %s) اليوم"
+
+#, php-format
+#~ msgid "Convert from %s (%s) to  %s (%s) and vice versa."
+#~ msgstr "التحويل من %s (%s ) الى %s (%s ) و العكس."
+
+#, php-format
+#~ msgid "%s %s (%s) to %s (%s) Exchange Rate, Updated"
+#~ msgstr "اسعار تحويل %s %s (%s) الى %s (%s)، محدثة"
+
+#, php-format
+#~ msgid ""
+#~ "%s %s (%s) to  %s (%s) exchange rate today. Historical exchange rates and "
+#~ "charts. | %s"
+#~ msgstr ""
+#~ "اسعار تحويل %s %s (%s) الى %s (%s)، اسعار الصرف التاريخية و الشارتات | %s"
+
+#, php-format
+#~ msgid "%s %s to %s, %s to %s, %s to %s Rate Today"
+#~ msgstr "%s %s الى %s ، %s الى %s ، تحويل %s الى %s "
+
+#, php-format
+#~ msgid "%s %s (%s) to %s (%s)"
+#~ msgstr "%s %s (%s) الى %s (%s )"
+
+#, php-format
+#~ msgid "%s %s (%s) to  %s (%s) exchange rate today."
+#~ msgstr "سعرتحويل %s %s (%s) الى %s (%s) اليوم."
+
+#, php-format
+#~ msgid "%s time"
+#~ msgstr "بتوقيت %s "
+
+#, php-format
+#~ msgid ""
+#~ "Following are currency exchange calculator and the details of exchange "
+#~ "rates between  %s (%s) and %s (%s)."
+#~ msgstr ""
+#~ "و فيما يلي حاسبة تغيير العملة و التفاصيل المتعلقة بأسعار الصرف بين %s "
+#~ "(%s) و %s (%s)."
+
+#, php-format
+#~ msgid ""
+#~ "Enter the amount of money to be converted from <strong>%s</strong> "
+#~ "(<strong>%s</strong>) to <strong>%s</strong> (<strong>%s</strong>), it is "
+#~ "converted as you type. Also, you can convert in the reverse direction "
+#~ "(from <strong>%s</strong> to <strong>%s</strong>)."
+#~ msgstr ""
+#~ "ادخل المبلغ الذي ترغب في تحويله من <strong>%s</strong> (<strong>%s</"
+#~ "strong>) الى <strong>%s</strong> (<strong>%s</strong>)، التحويل يتم "
+#~ "تلقائيا مع الادخال. أيضا، يمكنك التحويل في الاتجاه العكسي (من <strong>%s</"
+#~ "strong> الى <strong>%s</strong>)."
+
+#, php-format
+#~ msgid "%s to %s Converter"
+#~ msgstr "التحويل من %s الى %s"
+
+#, php-format
+#~ msgid "See exchange rates for %s in other currencies"
+#~ msgstr "شاهد اسعار التحويل %s للعملات الاخرى"
+
+#~ msgid "Currency Information"
+#~ msgstr "معلومات العملة"
+
+#, php-format
+#~ msgid "%s (%s) to %s (%s) Chart"
+#~ msgstr "شارت التحويل من %s (%s) الى %s (%s)"
+
+#, php-format
+#~ msgid ""
+#~ "Here is the %s to %s Chart. Select a time frame for the chart; 1 month, 3 "
+#~ "months, 6 months, year to day, 1 Year and all available time which varies "
+#~ "from 7 to 13 years according to the currency. You can also, download the "
+#~ "chart as a png or jpeg image or as a pdf file or directly print the chart "
+#~ "by clicking on the corresponding button in the top right of the chart."
+#~ msgstr ""
+#~ "هذا شارت اسعار التحويل من %s الى %s. اختر المدى الزمني من شهر واحد، ثلاثة "
+#~ "أشهر، ستة أشهر سنة أو كل المدى المتاح الذي يتراوح بين 7 و 13 سنة حسب نوع "
+#~ "العملة. أيضا تستطيع تحميل الملف الى جهازك كصورة أو ملف بي دي اف او طباعة "
+#~ "مباشرة للشارت و ذلك بالضغط على الزر المناسب أعلى اليمين من الشارت."
+
+#, php-format
+#~ msgid "%s Rate Today in %s %s (%s)"
+#~ msgstr "أسعار %s اليوم في %s %s (%s)"
+
+#, php-format
+#~ msgid ""
+#~ "Displays latest %s price in %s %s per ounce, kilogram, and grams.  %s "
+#~ "rates are updated every 5 minutes!"
+#~ msgstr ""
+#~ "تعرض آخر أسعار %s في %s % s للاوقيه والكيلوجرام والجرام.  يتم تحديث أسعار "
+#~ "%s كل 5 دقائق!"
+
+#, php-format
+#~ msgid "%s Rate Today in %s"
+#~ msgstr "سعر %s اليوم في %s"
+
+#, php-format
+#~ msgid "%s Price in %s %s"
+#~ msgstr "أسعار %s في %s %s"
+
+#, php-format
+#~ msgid "%s Price in %s, %s rate %s"
+#~ msgstr "أسعار %s في %s، أسعار %s %s"
+
+#, php-format
+#~ msgid "%s %s Ounce = %s %s"
+#~ msgstr "%s أوقية من %s = %s %s"
+
+#~ msgid "GMT"
+#~ msgstr "جرينيتش"
+
+#, php-format
+#~ msgid ""
+#~ "The following table displays silver rates in %s %s (%s) for ounce, "
+#~ "kilogram, gram."
+#~ msgstr ""
+#~ "يعرض الجدول التالي أسعار الفضة في % s % s (% s) للأوقية، الكيلوغرام، غرام."
+
+#~ msgid "Silver Unit"
+#~ msgstr "وحدة الفضة"
+
+#~ msgid "Silver Price"
+#~ msgstr "اسعار الفضة"
+
+#~ msgid "1 Silver Ounce"
+#~ msgstr "1 أونصة لفضة "
+
+#~ msgid "1 Silver Kilogram"
+#~ msgstr "1 كجم فضة"
+
+#~ msgid "1 Silver Gram"
+#~ msgstr "1 جم فضة"
+
+#, php-format
+#~ msgid ""
+#~ "The following table displays gold rates in %s %s (%s) for ounce, "
+#~ "kilogram, gram of different karats. The most commonly used gold carats in "
+#~ "gold shops are 24K, 22K, 21K, and 18K ."
+#~ msgstr ""
+#~ "الجدول التالي يعرض أسعار الذهب في %s %s (%s)  للأوقية و الكيلوجرام و "
+#~ "الجرام للعيارات المختلفة. أكثر العيارات استخداما هي عيار 24 و عيار 22 و "
+#~ "عيار 21 و عيار 18."
+
+#~ msgid "Gold Unit"
+#~ msgstr "وحدة الذهب"
+
+#~ msgid "Gold Price"
+#~ msgstr "أسعار الذهب"
+
+#~ msgid "1 Gold Ounce"
+#~ msgstr "1 أوقية"
+
+#~ msgid "1 Gold Kilogram"
+#~ msgstr "1 كجم ذهب"
+
+#~ msgid "Gold Gram Carat"
+#~ msgstr "جرام ذهب عيار"
+
+#, php-format
+#~ msgid ""
+#~ "The following table displays platinum rates in %s %s (%s) for ounce, "
+#~ "kilogram, gram."
+#~ msgstr ""
+#~ "يعرض الجدول التالي أسعار البلاتين في % s % s (% s) للأوقية، الكيلوغرام، و "
+#~ "الغرام."
+
+#~ msgid "Platinum Unit"
+#~ msgstr "وحدة البلاتين"
+
+#~ msgid "Platinum Price"
+#~ msgstr "سعر البلاتين"
+
+#~ msgid "1 Platinum Ounce"
+#~ msgstr "1 أونصة بلاتين"
+
+#~ msgid "1 Platinum Kilogram"
+#~ msgstr "1 كيلوغرام بلاتين"
+
+#~ msgid "1 Platinum Gram"
+#~ msgstr "1 غرام بلاتين"
+
+#~ msgid "Popular Conversions"
+#~ msgstr "تحويلات شائعة"
+
+#~ msgid "Currency Exchange Rates Today"
+#~ msgstr "أسعار صرف العملات اليوم"
+
+#~ msgid "Welcome to Currency Converter"
+#~ msgstr "مرحبا بكم في تحويل العملات"
+
+#~ msgid ""
+#~ "The following table shows exchange rates between major world currencies. "
+#~ "To see details of conversion of any pair of currencies, hover the mouse "
+#~ "over the cell where both currencies cross or click on that cell to show "
+#~ "even more details. Also, you can click on a single currency to show "
+#~ "conversion between this currency and all other world currencies."
+#~ msgstr ""
+#~ "يبين الجدول التالي أسعار الصرف بين العملات الرئيسية في العالم. لمعرفة "
+#~ "تفاصيل التحويل بين أي زوج من العملات، ضع مؤشر الماوس فوق الخلية حيث "
+#~ "تتقاطع كلتا العملتين أو انقر فوق الخلية لإظهار المزيد من التفاصيل. أيضا، "
+#~ "يمكنك النقر فوق أي عمله للذهاب الى صفحة التحويل بين هذه العملة والعملات "
+#~ "العالمية الأخرى."
+
+#, php-format
+#~ msgid "Last Updated: %s (%s)"
+#~ msgstr "آخر تحديث: %s (بتوقيت %s )"
+
+#, php-format
+#~ msgid "Click to show exchange rates of %s in other currencies"
+#~ msgstr "اضغط لمشاهدة اسعار التحويل من عملة %s الى العملات الاخرى"
+
+#~ msgid "Data are Unavailable Now, Sorry!"
+#~ msgstr "المعلومات غير متاحة حاليا، عفوا!"
+
+#~ msgid "Exchange Rates Forum"
+#~ msgstr "منتدى تحويل العملات"
+
+#, php-format
+#~ msgid "London Gold Fixing| %s"
+#~ msgstr "تثبيت ذهب لندن  | %s"
+
+#~ msgid ""
+#~ "Displays last updated london gold and silver fixing prices in United "
+#~ "States Dollar, Great British Pound and Euro per ounce."
+#~ msgstr ""
+#~ "تعرض آخر تحديث لتثبيت لندن للذهب والفضة بالدولار الأمريكي والجنيه "
+#~ "الاسترليني واليورو لكل أوقية (الاونصة)."
+
+#~ msgid "London Gold & Silver Fixing"
+#~ msgstr "تثبيت لندن للذهب و الفضة"
+
+#~ msgid "In United States Dollar, Great British Pound and Euro"
+#~ msgstr "بالدولار الأمريكي و الجنيه الاسترليني و اليورو"
+
+#~ msgid "London Gold Fixing Prices Per Ounce"
+#~ msgstr "أسعار تثبيت ذهب لندن للأوقية"
+
+#~ msgid "London Silver Fixing Prices Per Ounce"
+#~ msgstr "أسعار تثبيت الفضة لندن للأوقية"
+
+#~ msgid "What is London Gold Fixing?"
+#~ msgstr "ما هو سعر تثبيت لندن للذهب و الفضة؟"
+
+#~ msgid ""
+#~ "London Gold Fixing is the process of fixing gold and silver price by five "
+#~ "members of The London Gold Market Fixing Ltd via conference call. London "
+#~ "Gold Fixing Price Price is used as a benchmark of pricing gold and sliver "
+#~ "and their products allover the world. It is the price at which supply "
+#~ "meets demand by participating banks."
+#~ msgstr ""
+#~ "تثبيت  ذهب لندن هو عملية تحديد سعر الذهب والفضة بواسطة خمسة أعضاء من "
+#~ "\"The London Gold Market Fixing Ltd\"  عن طريق مؤتمر عبر الهاتف. سعر "
+#~ "تثبيت  ذهب لندن  يستخدم كمعيار لتسعير الذهب و الفضة ومنتجاتها بجميع أنحاء "
+#~ "العالم. هو السعر الذي عنده يتساوى العرض مع الطلب من المصارف المشاركة."
+
+#~ msgid ""
+#~ "London Gold is fixed twice daily during business days; at 10:30 AM, GMT "
+#~ "and is called \"AM Gold Fix\" and at 03:00 PM and is called \"PM Gold Fix"
+#~ "\" and is declared in the 3 major currencies; United States Dollar (USD), "
+#~ "British Pound (GBP) and Euro (EUR)."
+#~ msgstr ""
+#~ "يتم تثبيت الذهب مرتين يوميا في كل يوم من أيام العمل: مرة الساعة العاشرة و "
+#~ "النصف بتوقيت لندن ويسمي تثبيت الصباح \"AM\" ,  و مرة السعاة الثالثة عصرا "
+#~ "و يمسى تثبيت المساء \"PM\" و يتم تحديده بالثلاث عملات الرئيسية و هي "
+#~ "الدولار الأمريكي و الجنيه الاسترليني و اليورو."
+
+#~ msgid "Add Currency Table to Your Website"
+#~ msgstr "أضافه جدول تحويل العملات إلى موقعك"
+
+#~ msgid "Default Source Currency"
+#~ msgstr "عمله المصدر الافتراضية"
+
+#~ msgid "Default Target Currency"
+#~ msgstr "العملة المستهدفة الافتراضية"
+
+#~ msgid "Select Initial Amount"
+#~ msgstr "تحديد المبلغ الافتراضي"
+
+#~ msgid "PREVIEW"
+#~ msgstr "معاينة"
+
+#~ msgid "Exchange Rates Table and Currency Converter for Webmasters"
+#~ msgstr "جدول أسعار الصرف وتحويل العملات لمشرفي المواقع"
+
+#~ msgid "Add currency tools to your website for free."
+#~ msgstr "أضافه أدوات العملة إلى موقع الويب الخاص بك مجانا."
+
+#~ msgid "Currency Tools for Webmasters"
+#~ msgstr "أدوات العملة لمشرفي المواقع"
+
+#~ msgid "Exchange Rates Table"
+#~ msgstr "جدول أسعار الصرف"
+
+#~ msgid "From"
+#~ msgstr "من"
+
+#~ msgid "Get widget"
+#~ msgstr "المربع في موقعك"
+
+#~ msgid "Exchange Rates Now"
+#~ msgstr "أسعار الصرف الآن"
+
+#~ msgid "Select Base Currency"
+#~ msgstr "اختر العملة الأساسية"
+
+#~ msgid "Select Currency Display"
+#~ msgstr "اختيار عرض العملة"
+
+#~ msgid "Currency Code"
+#~ msgstr "كود العملة"
+
+#~ msgid "Currency Name"
+#~ msgstr "اسم العملة"
+
+#, php-format
+#~ msgid "%s Price Chart in %s %s"
+#~ msgstr "الرسم البياني لأسعار %s في %s %s"
+
+#, php-format
+#~ msgid ""
+#~ "This is the %s price chart in %s %s (%s). Select a time frame for the "
+#~ "chart; 1 month, 3 months, 6 months, year to day, 1 Year and all available "
+#~ "time which varies from 7 to 13 years according to the currency. You can "
+#~ "also, download the chart as a png or jpeg image or as a pdf file or "
+#~ "directly print the chart by clicking on the corresponding button in the "
+#~ "top right of the chart."
+#~ msgstr ""
+#~ "هذا شارت اسعار %s في  %s %s (%s). اختر المدى الزمني من شهر واحد، ثلاثة "
+#~ "أشهر، ستة أشهر سنة أو كل المدى المتاح الذي يتراوح بين 7 و 13 سنة حسب نوع "
+#~ "العملة. أيضا تستطيع تحميل الملف الى جهازك كصورة أو ملف بي دي اف او طباعة "
+#~ "مباشرة للشارت و ذلك بالضغط على الزر المناسب أعلى اليمين من الشارت."
+
+#, php-format
+#~ msgid "Details of %s to %s Exchange Rates"
+#~ msgstr "تفاصيل التحويل من %s الى %s "
+
+#~ msgid "Current Rate"
+#~ msgstr "السعر الحالي"
+
+#~ msgid "Bid Price"
+#~ msgstr "سعر البيع"
+
+#~ msgid "Ask Price"
+#~ msgstr "سعر الشراء"
+
+#~ msgid "Low"
+#~ msgstr "الأدنى"
+
+#~ msgid "High"
+#~ msgstr "الأعلى"
+
+#~ msgid "Previous Close"
+#~ msgstr "الاغلاق السابق"
+
+#~ msgid "Open Price"
+#~ msgstr "سعر الفتح"
+
+#~ msgid "Day's Range"
+#~ msgstr "مدى اليوم"
+
+#~ msgid "52wk Range"
+#~ msgstr "مدى 52 أسبوع"
+
+#~ msgid "All Rights Reserved"
+#~ msgstr "جميع الحقوق محفوظة"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "سياسة الخصوصية"
+
+#~ msgid "Exchange Rates"
+#~ msgstr "اسعار الصرف"
+
+#~ msgid "Gold Rates"
+#~ msgstr "أسعار الذهب"
+
+#~ msgid "Forum"
+#~ msgstr "المنتدى"
+
+#~ msgid "For Webmasters"
+#~ msgstr "لمشرفي المواقع"
+
+#, php-format
+#~ msgid "%1$s Price in %2$s %3$s in the Last 2 Weeks"
+#~ msgstr "أسعار %s في %s %s في آخر أسبوعين"
+
+#~ msgid "date"
+#~ msgstr "التاريخ"
+
+#, php-format
+#~ msgid "%1$s to %2$s Exchange Rates in the Last 2 Weeks"
+#~ msgstr "أسعار %1$s مقابل %2$s في أخر أسبوعين"
+
+#, php-format
+#~ msgid "%s price %s"
+#~ msgstr "أسعار %s %s"
+
+#, php-format
+#~ msgid "%s price in %s"
+#~ msgstr "أسعار %s في %s"
+
+#, php-format
+#~ msgid "Printable %s to %s Exchange Rates"
+#~ msgstr "جدول قابل للطباعة لأسعار التحويل من %s الى %s"
+
+#, php-format
+#~ msgid "Conversion From %s (%s) to %s (%s)"
+#~ msgstr "التحويل من %s ( %s) إلى %s ( %s)"
+
+#, php-format
+#~ msgid "Spot %s Rate in %s"
+#~ msgstr "اسعار %s الفورية (%s)"
+
+#, php-format
+#~ msgid "%s Fixing Price in %s"
+#~ msgstr "سعر تثبيت %s (%s)"
+
+#, php-format
+#~ msgid "Privacy Policy | %s"
+#~ msgstr "سياسة الخصوصية | %s"
+
+#, php-format
+#~ msgid "This is privacy policy for %s, please read carefully."
+#~ msgstr "وهذا نهج الخصوصية لموقع  %s، الرجاء قراءتها بعناية."
+
+#, php-format
+#~ msgid "%s (%s) Exchange Rates & Converter"
+#~ msgstr "اسعار الصرف و التحويل لعملة %s (%s)"
+
+#, php-format
+#~ msgid ""
+#~ "%s (%s) rate today and conversion to other currencies. The rates are "
+#~ "updated every 5 minutes!| %s"
+#~ msgstr ""
+#~ "اسعار تحويل %s  (%s ) اليوم أمام العملات الاخرى. الاسعار يتم تحديثها كل 5 "
+#~ "دقائق! | %s "
+
+#, php-format
+#~ msgid "%s, %s, Exchange Rate Today, %s Exchange Rate Today"
+#~ msgstr "%s، %s، سعر الصرف اليوم, %s سعر الصرف اليوم"
+
+#, php-format
+#~ msgid "%s Exchange Rates & conversion"
+#~ msgstr "اسعار الصرف و التحويل لعملة %s"
+
+#, php-format
+#~ msgid "%s Exchange Rates (%s)"
+#~ msgstr "أسعار تحويل %s (%s)"
+
+#, php-format
+#~ msgid ""
+#~ "<strong>Convert %s (%s)</strong> to other currencies; Enter the amount of "
+#~ "money to be converted from %s to other currencies. You can filter the "
+#~ "currencies displayed in this table by name, symbol or continent."
+#~ msgstr ""
+#~ "تحويل  %s ( %s) الى العملات الاخرى: ادخل المبلغ الذي ترغب في من %s تحويله "
+#~ "الى العملات الاخرى. تستطيع ان تختار العملات المعروضة في الجدول وفقا للاسم "
+#~ "أو الرمز أو القارة/المنطقة."
+
+#~ msgid "Currency"
+#~ msgstr "العملة"
+
+#~ msgid "Continent"
+#~ msgstr "القارة/المنطقة"
+
+#, php-format
+#~ msgid "See currecny conversion details between %s and %s"
+#~ msgstr "شاهد تفاصيل اسعار التحويل بين %s و %s"
+
+#~ msgid "All"
+#~ msgstr "الكل"
+
+#, php-format
+#~ msgid "convert %s"
+#~ msgstr "تحويل  %s"
+
+#, php-format
+#~ msgid "%s conversion"
+#~ msgstr "تحويل %s"
+
+#, php-format
+#~ msgid "%s converter"
+#~ msgstr "تحويل %s"
+
+#, php-format
+#~ msgid "Rating of %s"
+#~ msgstr "تقييم  %s"
+
+#~ msgid "based on"
+#~ msgstr "بناء علي"
+
+#~ msgid "ratings"
+#~ msgstr "تقييمات"
+
+#~ msgid "Native Dropdown"
+#~ msgstr "القائمة المنسدلة الاصليه"
+
+#~ msgid "Select Converter Size"
+#~ msgstr "حدد حجم المحول"
+
+#~ msgid "Normal Size"
+#~ msgstr "الحجم العادي"
+
+#~ msgid "Large Size"
+#~ msgstr "حجم كبير"
+
+#~ msgid "Select Theme"
+#~ msgstr "اختر قالب"
+
+#, php-format
+#~ msgid "%1$s Price in %2$s in the Last 2 Weeks %3$s"
+#~ msgstr "أسعار %s في %s %s في آخر أسبوعين"
+
+#~ msgid "More..."
+#~ msgstr "المزيد..."
+
+#~ msgid "London Gold Fixing"
+#~ msgstr "تثبيت ذهب لندن"
+
+#~ msgid "London Silver Fixing"
+#~ msgstr "تثبيت فضة لندن"
+
+#~ msgid "Last Trade"
+#~ msgstr "الصفقة الأخيرة"
+
+#~ msgid "Trade Time"
+#~ msgstr "وقت الصفقة"
+
+#~ msgid "Change"
+#~ msgstr "التغير"
+
+#~ msgid "1 Oz"
+#~ msgstr "1 أوقية"
+
+#~ msgid "1 Kg"
+#~ msgstr "1 كجم"
+
+#~ msgid "1 Gm 24"
+#~ msgstr "1 جرام 24"
+
+#~ msgid "1 Gm 22"
+#~ msgstr "1 جرام 22"
+
+#~ msgid "1 Gm 21"
+#~ msgstr "1 جرام 21"
+
+#~ msgid "1 Gm 18"
+#~ msgstr "1 جرام 18"
+
+#~ msgid "USD to Euro Chart"
+#~ msgstr "شارت الدولار لليورو"
+
+#~ msgid "Euro to USD Chart"
+#~ msgstr "شارت اليورو للدولار"
+
+#~ msgid "USD to GBP Chart"
+#~ msgstr "شارت الدولار للاسترليني"
+
+#~ msgid "GBP to USD Chart"
+#~ msgstr "شارت الاسترليني للدولار"
+
+#~ msgid "Gold Rate Chart in USD"
+#~ msgstr "مخطط سعر الذهب بالدولار الأمريكي"
+
+#~ msgid "Silver Rate Chart in USD"
+#~ msgstr "مخطط سعر الفضة بالدولار الأمريكي"
+
+#~ msgid "Spot Gold Rates"
+#~ msgstr "أسعار الذهب الفورية"
+
+#~ msgid "?"
+#~ msgstr "؟"
+
+#, php-format
+#~ msgid "%s Exchange Rates"
+#~ msgstr "تحويل %s"
+
+#, php-format
+#~ msgid "Gold Rate in %s"
+#~ msgstr "اسعار الذهب في %s"
+
+#~ msgid "Your Recent Conversions"
+#~ msgstr "تحويلاتك السابقة"
+
+#, php-format
+#~ msgid "Silver Price Chart in %s %s"
+#~ msgstr "مخطط اسعار الفضة في %s %s"
+
+#, php-format
+#~ msgid ""
+#~ "This is the silver price chart in %s %s (%s). Select a time frame for the "
+#~ "chart; 1 month, 3 months, 6 months, year to day, 1 Year and all available "
+#~ "time which varies from 7 to 13 years according to the currency. You can "
+#~ "also, download the chart as a png or jpeg image or as a pdf file or "
+#~ "directly print the chart by clicking on the corresponding button in the "
+#~ "top right of the chart."
+#~ msgstr ""
+#~ "هذا شارت اسعار الفضة  %s %s (%s). اختر المدى الزمني من شهر واحد، ثلاثة "
+#~ "أشهر، ستة أشهر سنة أو كل المدى المتاح الذي يتراوح بين 7 و 13 سنة حسب نوع "
+#~ "العملة. أيضا تستطيع تحميل الملف الى جهازك كصورة أو ملف بي دي اف او طباعة "
+#~ "مباشرة للشارت و ذلك بالضغط على الزر المناسب أعلى اليمين من الشارت."
+
+#, php-format
+#~ msgid "Platinum Price Chart in %s %s"
+#~ msgstr "تخطيط أسعار البلاتين في % s % s"
+
+#, php-format
+#~ msgid ""
+#~ "This is the platinum price chart in %s %s (%s). Select a time frame for "
+#~ "the chart; 1 month, 3 months, 6 months, year to day, 1 Year and all "
+#~ "available time which varies from 7 to 13 years according to the currency. "
+#~ "You can also, download the chart as a png or jpeg image or as a pdf file "
+#~ "or directly print the chart by clicking on the corresponding button in "
+#~ "the top right of the chart."
+#~ msgstr ""
+#~ "وهذا هو مخطط أسعار البلاتين في % s % s (% s). قم بتحديد إطار الزمني "
+#~ "للتخطيط؛ 1 شهر، 3 أشهر، 6 أشهر، سنة إلى اليوم، السنة 1، وكل ما هو متاح من "
+#~ "الوقت الذي يتراوح بين 7 و 13 عاماً وفقا للعملة. يمكنك أيضا تحميل المخطط "
+#~ "كصورة png أو jpeg أو كملف pdf أو طباعة المخطط بالنقر على الزر في أعلى "
+#~ "اليمين من المخطط."
+
+#, php-format
+#~ msgid ""
+#~ "Convert from %s (%s) to  %s (%s) and vice versa. Historical exchange "
+#~ "rates and charts. | %s"
+#~ msgstr ""
+#~ "حول من (%s ((%s) الى (%s ((%s) و بالعكس. أسعار الصرف التاريخية و شارت. | "
+#~ "%s"
+
+#~ msgid "Reverse Conversion"
+#~ msgstr "التحويل العكسي"
+
+#~ msgid "Your conversions will be saved here!"
+#~ msgstr "سيتم حفظ التحويلات الخاصة بك هنا!"
+
+#~ msgid "All Continents"
+#~ msgstr "جميع القارات"
+
+#, php-format
+#~ msgid "Gold Price Chart in %s %s"
+#~ msgstr "مخطط اسعار الذهب في %s %s"
+
+#, php-format
+#~ msgid ""
+#~ "This is the gold price chart in %s %s (%s). Select a time frame for the "
+#~ "chart; 1 month, 3 months, 6 months, year to day, 1 Year and all available "
+#~ "time which varies from 7 to 13 years according to the currency. You can "
+#~ "also, download the chart as a png or jpeg image or as a pdf file or "
+#~ "directly print the chart by clicking on the corresponding button in the "
+#~ "top right of the chart."
+#~ msgstr ""
+#~ "هذا شارت اسعار الذهب  %s %s (%s). اختر المدى الزمني من شهر واحد، ثلاثة "
+#~ "أشهر، ستة أشهر سنة أو كل المدى المتاح الذي يتراوح بين 7 و 13 سنة حسب نوع "
+#~ "العملة. أيضا تستطيع تحميل الملف الى جهازك كصورة أو ملف بي دي اف او طباعة "
+#~ "مباشرة للشارت و ذلك بالضغط على الزر المناسب أعلى اليمين من الشارت."
+
+#, php-format
+#~ msgid "%s to %s Conversion"
+#~ msgstr "أسعار %s مقابل %s"
+
+#, php-format
+#~ msgid "%s to %s Exchange Rate Today"
+#~ msgstr "التحويل من %s إلى %s"
+
+#, php-format
+#~ msgid "Convert %s to %s"
+#~ msgstr "أسعار %s مقابل %s"
+
+#~ msgid "Select From Currency"
+#~ msgstr "اختر العملة المصدر"
+
+#~ msgid "Select To Currency"
+#~ msgstr "اختر العملة المقابلة"
+
+#~ msgid "Amount"
+#~ msgstr "Montant"
+
+#~ msgid "Foreign Currency Exchange Rates"
+#~ msgstr "أسعار صرف العملات"
+
+#~ msgid "1 Gold Gram Carat 24"
+#~ msgstr "1 جرام ذهب عيار 24"
+
+#~ msgid "1 Gold Gram Carat 22"
+#~ msgstr "1 جرام ذهب عيار 22"
+
+#~ msgid "1 Gold Gram Carat 21"
+#~ msgstr "1 جرام ذهب عيار 21"
+
+#~ msgid "1 Gold Gram Carat 18"
+#~ msgstr "1 جرام ذهب عيار 18"
+
+#~ msgid "Gold Rate in %s %s (%s)| %s"
+#~ msgstr "اسعار الذهب في   %s %s (%s)| %s"
+
+#~ msgid ""
+#~ "Displays latest gold and silver price in %s %s per ounce, kilogram, and "
+#~ "grams of different karats.  The gold and silver rates are updated every 5 "
+#~ "minutes!| %s"
+#~ msgstr ""
+#~ "تعرض أحدث أسعار الذهب و الفضة في %s %s للأوقية و الكيلوجرام و الجرام من "
+#~ "العيارات المختلفة. أسعار الذهب و الفضة يتم تحديثها كل خمس دقائق.| %s"
+
+#~ msgid "Gold and Silver Price in %s %s"
+#~ msgstr "اسعار الذهب و الفضة في %s %s"
+
+#~ msgid "Gold Price Today in %s %s"
+#~ msgstr "أسعار الذهب اليوم في %s %s"
+
+#~ msgid "Silver Price Today in %s %s"
+#~ msgstr "اسعار الفضة اليوم في  %s %s"
+
+#~ msgid "Platinum Price Today in %s %s"
+#~ msgstr "أسعار البلاتين اليوم في % s % s"
+
+#~ msgid "Your Conversions"
+#~ msgstr "تحويلاتك"
+
+#~ msgid "Recent Conversions"
+#~ msgstr "تحويلات حديثة"
+
+#~ msgid "%s (%s) to %s (%s)"
+#~ msgstr "%s (%s) الى %s (%s)"
+
+#~ msgid "%s to %s (%s)"
+#~ msgstr "%s إلى %s ( %s)"
+
+#~ msgid "World Forex Rates Today"
+#~ msgstr "اسعار صرف العملات اليوم"
+
+#~ msgid "%s (%s) to %s (%s) Converter"
+#~ msgstr "التحويل من %s (%s) الى  %s (%s)"
+
+#~ msgid "Currency Conversion at %s"
+#~ msgstr "تحويل العملات في %s"
+
+#~ msgid "Major"
+#~ msgstr "العملات الرئيسية"
+
+#~ msgid "to"
+#~ msgstr "إلى"
+
+#~ msgid "Foreign Currency Exchange Rates Allover the World"
+#~ msgstr "اسعار تحويل العملات على مدار العالم"
+
+#~ msgid "Homepage"
+#~ msgstr "الرئيسية"
+
+#~ msgid "London Gold Fixing in USD"
+#~ msgstr "تثبيت ذهب لندن بالدولار"
+
+#~ msgid "London Silver Fixing in USD"
+#~ msgstr "تثبيت فضة لندن بالدولار"
+
+#~ msgid "Last Update: %s"
+#~ msgstr "آخر تحديث: %s"
+
+#~ msgid ""
+#~ "According to latest update of exchange rates at: %s (%s), <strong>%s %s = "
+#~ "%s %s</strong>"
+#~ msgstr ""
+#~ "وفقا لآخر تحديث لأسعار الصرف في: %s (%s), فإن <strong>%s %s = %s "
+#~ "%s<strong> </strong> </strong>"
+
+#~ msgid "Last Updated: %s (%s Time), %s (%s)"
+#~ msgstr "آخر تحديث: %s (بتوقيت %s )، %s  (%s )"
+
+#~ msgid "Add Currency Converter to Your Website or blog | %s"
+#~ msgstr "اضف محول العملات الى موقعك أو مدونتك | %s"
+
+#~ msgid ""
+#~ "Here you can use our currency converter widget to your website freely. "
+#~ "This converters includes more than 150 currencies and the exchange rates "
+#~ "are updated every five minutes! | %s"
+#~ msgstr ""
+#~ "هنا تستطيع استخدام محول العملات في موقعك مجانا. هذا المحول يشمل أكثر من "
+#~ "150 عملة و الاسعار يتم تحديثها كل 5 دقائق! | %s"
+
+#~ msgid "currency calculator widget, currency converter widget"
+#~ msgstr "محول العملات، حاسبة اسعار العملات"
+
+#~ msgid "Major Currencies"
+#~ msgstr "العملات الرئيسية"
+
+#~ msgid "Currency Widget"
+#~ msgstr "مربع اسعار العملات"
+
+#~ msgid "Add Currency Converter Widget to Your Website"
+#~ msgstr "اضف محول العملات الى موقعك"
+
+#~ msgid "Customize your currency widget"
+#~ msgstr "تخصيص محول العملات"
+
+#~ msgid "Width"
+#~ msgstr "العرض"
+
+#~ msgid "Color Theme"
+#~ msgstr "ثيم اللون"
+
+#~ msgid "Hide Header"
+#~ msgstr "اخفاء الرأس"
+
+#~ msgid "Preview"
+#~ msgstr "معاينة"
+
+#~ msgid "Preview your currency widget"
+#~ msgstr "معاينة محول العملات"
+
+#~ msgid "Switch to our desktop site"
+#~ msgstr "التبديل الى الموقع الكامل"
+
+#~ msgid "Switch to our mobile site"
+#~ msgstr "التبديل الى موقع الموبايل"
+
+#, fuzzy
+#~ msgid "Page Title"
+#~ msgstr "Titre"
+
+#~ msgid "%s (%s) Exchange Rates & Converter | %s"
+#~ msgstr "اسعار الصرف و التحويل لعملة %s (%s) | %s"
+
+#~ msgid "%s (%s) to %s (%s) Exchange Rate & Converter | %s"
+#~ msgstr "اسعار الصرف و التحويل من %s (%s) الى %s %s) | %s"
+
+#~ msgid "%s %s (%s) to %s (%s) Exchange Rate, Updated | %s"
+#~ msgstr "اسعار تحويل %s %s (%s) الى %s (%s)، محدثة | %s"
+
+#~ msgid ""
+#~ "This website is dedicated to those who want to follow up <strong>currency "
+#~ "exchange rates</strong> between most world currencies. Includes currency "
+#~ "converter; updated every 5 minutes, historical exchange rates and charts."
+#~ msgstr ""
+#~ "هذا الموقع نهديه لكل من يود ان يتابع اسعار تحويل و صرف العملات بين معظم "
+#~ "عملات العالم. يشتمل على محول للعملات يتم تحديثه كل 5 دقائق، اسعار الصرف "
+#~ "التاريخية و شارت اسعار الصرف,"
+
+#~ msgid "Gold Price %s/Ounce"
+#~ msgstr "اسعار الذهب %s/الأوقية"
+
+#~ msgid "Gold Price in %s per ounce"
+#~ msgstr "أسعار الذهب في %s للأونصة"
+
+#~ msgid "Default Currencies"
+#~ msgstr "العملات الافتراضية"
+
+#~ msgid ""
+#~ "The following table displays platinum rates in %s %s (%s) for ounce, "
+#~ "kilogram, gram of different karats. The most commonly used gold carats in "
+#~ "gold shops are 24K, 22K, 21K, and 18K ."
+#~ msgstr ""
+#~ "الجدول التالي يعرض أسعار البلاتين في%s %s (%s)  للأوقية و الكيلوجرام و "
+#~ "الجرام للعيارات المختلفة. أكثر العيارات استخداما هي عيار 24 و عيار 22 و "
+#~ "عيار 21 و عيار 18."
+
+#~ msgid "Recent Users' Conversions"
+#~ msgstr "تحويلات المستخدمين"
+
+#, fuzzy
+#~ msgid "Sorry, data are unavailable now"
+#~ msgstr "Désolé, les que données ne sont pas actuellement disponibles"
+
+#, fuzzy
+#~ msgid "Last Update: %s (%s Time), %s (%s)"
+#~ msgstr "Dernière mise à jour: % s, temps de %s (% s, GMT)"
+
+#~ msgid "Welcome"
+#~ msgstr "accueil"
+
+#, fuzzy
+#~ msgid "Exchange Rates for %s (%s, %s)"
+#~ msgstr "Taux de change pour %s (%s)"
+
+#~ msgid "A translatable text"
+#~ msgstr "Un texte à traduire"
+
+#~ msgid "Not Updated Gold Fixing because of the error"
+#~ msgstr "Pas mis à jour or fixant à cause de l'erreur"
+
+#~ msgid "Gold Fixing Updated Successfully"
+#~ msgstr "Fixation or Updated Successfully"
+
+#~ msgid "Not Updated Gold Fixing due to unknown error"
+#~ msgstr "Pas mis à jour or fixation en raison d'une erreur inconnue"
+
+#~ msgid "Not Updated Silver Fixing because of the error"
+#~ msgstr "Pas de mise à jour argent fixation en raison de l'erreur"
+
+#~ msgid "Silver Fixing Updated Successfully"
+#~ msgstr "Fixation argent correctement mis à jour"
+
+#~ msgid "Not Updated Silver Fixing due to unknown error"
+#~ msgstr "Pas mis à jour argent fixation en raison d'une erreur inconnue"
+
+#~ msgid ""
+#~ "Gold price today and historical gold prices in %s %s (%s). Spot gold "
+#~ "price: both in ounce and gram of most common carats; carat 24, carat 22, "
+#~ "carat 21, carat 18, carat 14, carat 12, carat 10, Enter the amount of "
+#~ "ounces or grams of any carat to get the total price of gold. Gold prices "
+#~ "are updated every 30 minutes based on live spot gold price. Also, in this "
+#~ "page, gold price charts, gold price trends, and London Gold Fixing. In "
+#~ "addition to historical and spot silver and platinum prices in %s %s (%s)"
+#~ msgstr ""
+#~ "Prix de l'or aujourd'hui et historiques de prix de l'or dans %s %s (% s). "
+#~ "Prix de l'or : en once et en gramme de carats plus courantes ; carat 24, "
+#~ "carat, carat, 21, 22 carats, 18 carats, 14 carats, 12 carats 10, "
+#~ "inscrivez le montant des onces ou en grammes de n'importe quel carat pour "
+#~ "obtenir le prix total de l'or. Prix de l'or sont mises à jour chaque 30 "
+#~ "minutes basés sur vivre prix spot de l'or. En outre, dans ce prix de la "
+#~ "page, or graphiques, des tendances de prix de l'or et London Gold "
+#~ "fixation. En plus d'historique et repérer les prix argent et de platine "
+#~ "dans %s %s (% s)"
+
+#~ msgid "gold rate in %s"
+#~ msgstr "or taux dans %s"
+
+#~ msgid "gold price %s"
+#~ msgstr "prix de l'or %s"
+
+#~ msgid "Posts related to Category: "
+#~ msgstr "Postes liés à la catégorie : "
+
+#~ msgid "Posts related to Tag: "
+#~ msgstr "Postes liés à la Tag : "
+
+#~ msgid ""
+#~ "Displays latest and historical gold, silver and platinum rates in all "
+#~ "countries allover the world. The prices are updated every 30 minutes "
+#~ "depending on spot live prices."
+#~ msgstr ""
+#~ "Expositions historique et plus récents or, argent et platine tarifs dans "
+#~ "tous pays allover le monde. Les prix sont mises à jour toutes les 30 "
+#~ "minutes selon les prix spots direct."
+
+#~ msgid "gold price"
+#~ msgstr "prix de l'or"
+
+#~ msgid "gold rate"
+#~ msgstr "taux de l'or"
+
+#~ msgid "Gold Rate in %s %s (%s)"
+#~ msgstr "Or taux dans %s %s (% s)"
+
+#~ msgid "Gold Price Change"
+#~ msgstr "Changement de prix de l'or"
+
+#~ msgid "Monthly Change"
+#~ msgstr "Variation mensuelle"
+
+#~ msgid "Yearly Change"
+#~ msgstr "Changement annuel"
+
+#~ msgid "Platinum Price Change"
+#~ msgstr "Changement de prix platine"
+
+#~ msgid "Silver Price Change"
+#~ msgstr "Changement de prix argent"
+
+#~ msgid "Gold Rate Charts %s (%s) Per Ounce"
+#~ msgstr "Or taux graphiques %s (% s) once"
+
+#~ msgid ""
+#~ "Gold rate chart in %s %s (%s) per ounce. Select a time frame for the "
+#~ "chart; 1 month, 3 months, 6 months, year to day, 1 Year and all available "
+#~ "time. You can download the chart as an image or as a pdf file or directly "
+#~ "print the chart by clicking on the corresponding button."
+#~ msgstr ""
+#~ "Tableau or dans %s %s (% s) par once. Sélectionnez un laps de temps du "
+#~ "graphique ; 1 mois, 3 mois, 6 mois, année à jour, 1 an et le temps "
+#~ "disponibles. Vous Télécharger le tableau sous forme d'image ou en format "
+#~ "pdf ou imprimer directement le graphique en cliquant sur le bouton "
+#~ "correspondant."
+
+#~ msgid "Gold: %s/Ounce"
+#~ msgstr "Or : %s/Ounce"
+
+#~ msgid "Gold Rate in %s per ounce"
+#~ msgstr "Or taux dans %s par once"
+
+#~ msgid "Platinum Price Chart %s (%s) Per Ounce"
+#~ msgstr "Prix platine graphique %s (% s) once"
+
+#~ msgid "Platinum Price %s/Ounce"
+#~ msgstr "Prix platine %s/Ounce"
+
+#~ msgid "Platinum Price in %s per ounce"
+#~ msgstr "Prix platine dans %s par once"
+
+#~ msgid "Silver Rate Chart %s (%s) Per Ounce"
+#~ msgstr "Once d'argent fréquence graphique %s (% s)"
+
+#~ msgid ""
+#~ "Silver rate chart in %s %s (%s) per ounce. Select a time frame for the "
+#~ "chart; 1 month, 3 months, 6 months, year to day, 1 Year and all available "
+#~ "time. You can download the chart as an image or as a pdf file or directly "
+#~ "print the chart by clicking on the corresponding button."
+#~ msgstr ""
+#~ "Argent fréquence graphique dans %s %s (% s) par once. Sélectionnez un "
+#~ "délai pour la graphique ; 1 mois, 3 mois, 6 mois, année à jour, 1 an et "
+#~ "tous disponibles temps. Vous pouvez télécharger le tableau sous forme "
+#~ "d'image ou en format pdf ou directement imprime le graphique en cliquant "
+#~ "sur le bouton correspondant."
+
+#~ msgid "Silver: %s/Ounce"
+#~ msgstr "Argent : %s/Ounce"
+
+#~ msgid "Silver Rate in %s per ounce"
+#~ msgstr "Taux argent dans %s par once"
+
+#~ msgid "London Gold Fix"
+#~ msgstr "Difficulté London Gold"
+
+#~ msgid ""
+#~ "The price of gold is set twice a day by The London Gold Market Fixing "
+#~ "Ltd. based on the basic economic principles of supply and demand. These "
+#~ "prices are used by the world to determine the price of gold."
+#~ msgstr ""
+#~ "Le prix de l'or est défini deux fois par jour par la London Gold Market "
+#~ "fixation Ltd. basé sur les principes économiques fondamentaux de l'offre "
+#~ "et la demande. Ces prix sont utilisés par le monde pour déterminer le "
+#~ "prix de l'or."
+
+#~ msgid ""
+#~ "In addition to USD, London Gold Fixing price is also calculated %s (%s) "
+#~ "per ounce."
+#~ msgstr ""
+#~ "En plus de USD, London Gold de fixation des prix estégalement également "
+#~ "calculée %s (% s) par once."
+
+#~ msgid "London Silver Fix"
+#~ msgstr "London argent Fix"
+
+#~ msgid ""
+#~ "The price of silver is set twice a day by The London Gold Market Fixing "
+#~ "Ltd. based on the basic economic principles of supply and demand. These "
+#~ "rates are used by the world to determine the price of silver."
+#~ msgstr ""
+#~ "Le prix de l'argent a la valeur deux fois par jour par la London Gold "
+#~ "Market Ltd de fixation. basé sur les principes économiques fondamentaux "
+#~ "de l'offre et la demande. Ces tarifs comprennent utilisé par le monde "
+#~ "pour déterminer le prix de l'argent."
+
+#~ msgid ""
+#~ "In addition to USD, London Silver Fixing price is also calculated %s (%s) "
+#~ "per ounce."
+#~ msgstr ""
+#~ "En plus de USD, London argent fixation des prix estégalement également "
+#~ "calculé %s (% s) par once."
+
+#~ msgid "Gold Price Today in %s"
+#~ msgstr "Prix de l'or aujourd'hui en %s"
+
+#~ msgid "Last updated: %s, %s time (%s, GMT)"
+#~ msgstr "Dernière mise à jour: % s, %s (% s, GMT) de temps"
+
+#~ msgid "Historical Gold Price in %s in the Last Year %s"
+#~ msgstr "Prix de l'or historique dans %s %s l'année dernière"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Gold Ounce"
+#~ msgstr "Once or"
+
+#~ msgid "Gram K"
+#~ msgstr "Gramme K"
+
+#~ msgid "Platinum Price in %s in the Last Year %s"
+#~ msgstr "Prix platine dans %s %s l'année dernière"
+
+#~ msgid "Platinum Ounce"
+#~ msgstr "Onces de platine"
+
+#~ msgid "Platinum Gram"
+#~ msgstr "Platine gramme"
+
+#~ msgid "Silver Price in %s in the Last Year %s"
+#~ msgstr "Prix de l'argent en %s %s l'année dernière"
+
+#~ msgid "Silver Ounce"
+#~ msgstr "Once argent"
+
+#~ msgid "Silver Gram"
+#~ msgstr "Gramme d'argent"
+
+#~ msgid ".999 - Fine"
+#~ msgstr "999 - Amende"
+
+#~ msgid ".958 - Britannia"
+#~ msgstr ".958 - Britannia"
+
+#~ msgid ".925 - Sterling"
+#~ msgstr "Sterling.925-"
+
+#~ msgid ".900 - Coin"
+#~ msgstr ".900 - Pièce"
+
+#~ msgid "Platinum Rate in %s"
+#~ msgstr "Taux de platine dans %s"
+
+#~ msgid "Platinum Price in %s"
+#~ msgstr "Prix platine dans %s"
+
+#~ msgid "Silver Rate in %s"
+#~ msgstr "Taux argent dans %s"
+
+#~ msgid "Silver Rate Today in %s"
+#~ msgstr "Argent taux aujourd'hui dans %s"
+
+#~ msgid "Updated at %s, %s time (%s, GMT)"
+#~ msgstr "Mis à jour à % s, temps de %s (% s, GMT)"
+
+#~ msgid "Spot Gold Price in %s %s"
+#~ msgstr "Prix de l'or en %s %s"
+
+#~ msgid ""
+#~ "Gold rate in %s %s (%s). Enter the amount of gold in ounce or grams of "
+#~ "different carats."
+#~ msgstr ""
+#~ "Or taux dans %s %s (% s). Inscrivez le montant de l'or en once ou en "
+#~ "grammes de différents carats."
+
+#~ msgid "Gold Gram Carat 24"
+#~ msgstr "Carat gramme or 24"
+
+#~ msgid "Gold Gram Carat 22"
+#~ msgstr "Gramme or carats 22"
+
+#~ msgid "Gold Gram Carat 21"
+#~ msgstr "Carat or gramme 21"
+
+#~ msgid "Gold Gram Carat 18"
+#~ msgstr "Gramme or Carat 18"
+
+#~ msgid "Gold Gram Carat 14"
+#~ msgstr "Gramme or carats 14"
+
+#~ msgid "Gold Gram Carat 12"
+#~ msgstr "Gramme or Carat 12"
+
+#~ msgid "Gold Gram Carat 10"
+#~ msgstr "Gramme or carats 10"
+
+#~ msgid "Spot Platinum Price in %s %s"
+#~ msgstr "Prix du platine au comptant dans %s %s"
+
+#~ msgid ""
+#~ "Platinum rate in %s %s (%s). Enter the amount of platinum in ounce or "
+#~ "grams."
+#~ msgstr ""
+#~ "Taux de platine dans %s %s (% s). Inscrivez le montant du platine en once "
+#~ "ou en grammes."
+
+#~ msgid "Platinum Rate"
+#~ msgstr "Taux de platine"
+
+#~ msgid "Spot Silver Price in %s %s"
+#~ msgstr "Prix de l'argent comptant en %s %s"
+
+#~ msgid ""
+#~ "Silver rate in %s %s (%s). Enter the amount of silver in ounce or grams "
+#~ "of different carats."
+#~ msgstr ""
+#~ "Taux argent dans %s %s (% s). Inscrivez le montant d'argent en once ou en "
+#~ "grammes de différents carats."
+
+#~ msgid "Silver Gram 999 (Carat 24, Pure Silver)"
+#~ msgstr "Argent gramme 999 (Carat 24, argent pur)"
+
+#~ msgid "Silver Gram 958 (Britannian Silver)"
+#~ msgstr "Gramme argent 958 (jeune Silver)"
+
+#~ msgid "Silver Gram 925 (Sterling Silver)"
+#~ msgstr "Argent 925 (argent Sterling) de gramme"
+
+#~ msgid "Silver Gram 875 (Carat 21, Saudi Arabia Standard)"
+#~ msgstr "Argent gramme 875 (Carat 21, Standard de l'Arabie saoudite)"
+
+#~ msgid "Silver Gram 800 (Carat 19.2, Portugal Standard)"
+#~ msgstr "Argent gramme 800 (Carat 19,2, Portugal Standard)"
+
+#~ msgid "Silver Gram 585 (14K, US Standard)"
+#~ msgstr "Argent gramme 585 (14K, US Standard)"
+
+#~ msgid "Gold Price Trends"
+#~ msgstr "Tendances des prix de l'or"
+
+#~ msgid "Today Price: Ounce (Gram)"
+#~ msgstr "Prix aujourd'hui : Once (gramme)"
+
+#~ msgid "Yesterday Price: Ounce (Gram)"
+#~ msgstr "Hier le prix : Once (gramme)"
+
+#~ msgid "30 Days Price: Ounce (Gram)"
+#~ msgstr "30 Jours prix : once (gramme)"
+
+#~ msgid "30 Days Average: Ounce (Gram)"
+#~ msgstr "Moyenne de 30 jours : once (gramme)"
+
+#~ msgid "30 Days High: Ounce (Gram)"
+#~ msgstr "30 Jours élevé : once (gramme)"
+
+#~ msgid "30 Days Low: Ounce (Gram)"
+#~ msgstr "Basse de 30 jours : once (gramme)"
+
+#~ msgid "First January: Ounce (Gram)"
+#~ msgstr "Premier janvier : Once (gramme)"
+
+#~ msgid "52 Weeks Price: Ounce (Gram)"
+#~ msgstr "52 Semaines prix : once (gramme)"
+
+#~ msgid "52 Weeks Average: Ounce (Gram)"
+#~ msgstr "Moyenne de 52 semaines : once (gramme)"
+
+#~ msgid "52 Weeks High: Ounce (Gram)"
+#~ msgstr "52 Semaines élevé : once (gramme)"
+
+#~ msgid "52 Weeks Low: Ounce (Gram)"
+#~ msgstr "Bas de 52 semaines : once (gramme)"
+
+#~ msgid "Platinum Rate Changes"
+#~ msgstr "Modifications tarifaires platine"
+
+#~ msgid "Today: Ounce (Gram)"
+#~ msgstr "Aujourd'hui : Once (gramme)"
+
+#~ msgid "Yesterday: Ounce (Gram)"
+#~ msgstr "Hier : Once (gramme)"
+
+#~ msgid "Silver Rate Changes"
+#~ msgstr "Modifications tarifaires argent"
+
+#~ msgid "Parent Page:"
+#~ msgstr "Page parente :"
+
+#~ msgid "More Countries"
+#~ msgstr "Plus de pays"
+
+#~ msgid "Next Schedule"
+#~ msgstr "Planification suivante"
+
+#~ msgid "wmscc Settings Page"
+#~ msgstr "wmscc paramètres de Page"
+
+#~ msgid "Select one or more regions and select any number of countries"
+#~ msgstr ""
+#~ "Sélectionnez une ou plusieurs régions et sélectionnez n'importe quel "
+#~ "nombre de pays"
+
+#~ msgid "Autocomplete"
+#~ msgstr "Saisie semi-automatique"
+
+#~ msgid "Extremetracking Login"
+#~ msgstr "Extremetracking Login"
+
+#~ msgid "Scheduling"
+#~ msgstr "Ordonnancement"
+
+#~ msgid "Update Now"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Schedule Historical Rates"
+#~ msgstr "Calendrier des taux historiques"
+
+#~ msgid "Schedule London Gold Fix"
+#~ msgstr "Horaire Londres Fix or"

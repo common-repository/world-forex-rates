@@ -1,0 +1,108 @@
+.wfr-scontainer{
+    background: transparent url('images/switch.png') no-repeat 50% 50%;
+}
+.wfr-scontainer:after{
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    font-size: 0;
+    clear: both;
+    min-height: 0;
+    visibility: hidden;
+}
+
+.wfr-scontainer .ms-selectable, .wfr-scontainer .ms-selection{
+    background: #fff;
+    color: #555555;
+    float: left;
+    width: 45%;
+}
+.wfr-scontainer .ms-selection{
+    float: right;
+}
+
+.wfr-scontainer .ms-list{
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -ms-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    position: relative;
+    height: 200px;
+    padding: 0;
+    overflow-y: auto;
+}
+
+.wfr-scontainer .ms-list.ms-focus{
+    border-color: rgba(82, 168, 236, 0.8);
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    outline: 0;
+    outline: thin dotted \9;
+}
+
+.wfr-scontainer ul{
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+}
+
+.wfr-scontainer .ms-optgroup-container{
+    width: 100%;
+}
+
+.wfr-scontainer .ms-optgroup-label{
+    margin: 0;
+    padding: 5px 0px 0px 5px;
+    cursor: pointer;
+    color: #999;
+}
+
+.wfr-scontainer .ms-selectable li.ms-elem-selectable,
+.wfr-scontainer .ms-selection li.ms-elem-selection{
+    border-bottom: 1px #eee solid;
+    padding: 2px 10px;
+    color: #555;
+    font-size: 14px;
+}
+
+.wfr-scontainer .ms-selectable li.ms-hover,
+.wfr-scontainer .ms-selection li.ms-hover{
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    background-color: #08c;
+}
+
+.wfr-scontainer .ms-selectable li.disabled,
+.wfr-scontainer .ms-selection li.disabled{
+    background-color: #eee;
+    color: #aaa;
+    cursor: text;
+}
+
+.wfr-preview iframe{
+    background: transparent url(images/loading.png) no-repeat center center;
+}
+.wfr-shortcode {
+    width:100%;
+    font-size: 10px;
+}
+.wfr-base_currency{
+    width: 100%;
+}
+
+input:invalid,
+input:out-of-range {
+    border-color:hsl(0, 50%, 50%);
+    background:hsl(0, 50%, 90%);
+}

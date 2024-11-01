@@ -1,0 +1,6 @@
+.wfr-scontainer .ms-selectable, .wfr-scontainer .ms-selection{
+    float: right;
+}
+.wfr-scontainer .ms-selection{
+    float:left;
+}
